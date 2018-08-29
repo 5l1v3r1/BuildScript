@@ -23,4 +23,4 @@ A script which helps to find the external dependencies for a given package durin
 
 ## Output
 
-  [](https://raw.githubusercontent.com/gottburgm/BuildScript/master/screenshots/example1.png)
+  []!(https://raw.githubusercontent.com/gottburgm/BuildScript/master/screenshots/example1.png)
