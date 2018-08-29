@@ -7,6 +7,7 @@ A script which helps to find the external dependencies for a given package durin
   - Feel free to help me by opening issues in order to improve the script
   - **IMPORTANT**: If i would have been allowed to do it in **Perl**, i would probably have already finished it.
 
+
 ## Usage
 
   ```bash
@@ -19,6 +20,7 @@ A script which helps to find the external dependencies for a given package durin
 
   ```
 
+
 ## Output
 
-  [](screenshots/example1.png)
+  [](https://raw.githubusercontent.com/gottburgm/BuildScript/master/screenshots/example1.png)
