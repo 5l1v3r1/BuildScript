@@ -14,9 +14,11 @@ A script which helps to find the external dependencies for a given package durin
      
      Usage:
      sh build_check.sh --dependency="<PACKAGE>-<VERSION>-<NUM>.<PLATFORM>.<ARCH>.<EXTENSION>"
+     perl build_check.pl "<PACKAGE>-<VERSION>-<NUM>.<PLATFORM>.<ARCH>.<EXTENSION>"
 
      Example:
      sh build_check.sh --dependency="jws-application-servers-3.1.0-40.sun10.sparc64.zip"
+     perl build_check.pl "jws-application-servers-3.1.0-40.sun10.sparc64.zip"
 
   ```
 
